@@ -198,6 +198,7 @@ docs/                      의사결정 기록, 개발과정, 발표자료(PDF),
   평가기_코드_설명.md        셀별 설계 근거
 src/                       검색·생성·평가 모듈 (ai_test = 초기 설계, codex_v2 = 이후 갈래)
 ```
+*  https://drive.google.com/drive/folders/1ik3m6pzRVotvvMCohGK6fh5TJg6e8N1u?usp=drive_link
 
 ## 핵심 교훈
 
